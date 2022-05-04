@@ -60,3 +60,4 @@ pip install pillow
 | Name of Creator | Start Date | End Date | Duration | Project Type | Deploy |
 |-----------------|------------|----------|----------|--------------|--------|
 | Mainak Chaudhuri | 29-11-2021 | 18-12-2021 | 20 days | GUI, DBMS | NULL |
+| Avinash Reddy V  | 29-11-2021 | 18-12-2021 | 20 days | GUI, DBMS | NULL |
